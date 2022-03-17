@@ -42,7 +42,7 @@ exit
 if exist "temp_%1.txt" (del temp_%1.txt)
 curl -o temp_%1.txt "%2"
 (for /f "delims=" %%i in (temp_%1.txt) do (
-    echo %1://%%i
+echo %1://%%i
 ))>temp_%1url.txt
 del temp_%1.txt
 type temp_%1url.txt>>%1.txt

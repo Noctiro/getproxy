@@ -1,17 +1,17 @@
 #!/bin/sh
 del () {
-    if [ -f "$1" ]; then
-        rm -f $1
-    fi
+if [ -f "$1" ]; then
+rm -f $1
+fi
 }
 dl () {
-    del temp_$1.txt
-    curl -o temp_$1.txt $2
-    sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
-    echo >> temp_$1.txt
-    cat temp_$1.txt >> $1.txt
-    cat temp_$1.txt >> temp_all.txt
-    del temp_$1.txt
+del temp_$1.txt
+curl -o temp_$1.txt $2
+sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
+echo >> temp_$1.txt
+cat temp_$1.txt >> $1.txt
+cat temp_$1.txt >> temp_all.txt
+del temp_$1.txt
 }
 
 del all.txt
