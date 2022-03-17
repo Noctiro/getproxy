@@ -5,7 +5,7 @@ call:rm temp_http.txt
 call:rm temp_https.txt
 call:rm temp_socks4.txt
 call:rm temp_socks5.txt
-:: call:get filename/type url
+:: call:get type/filename url
 :: http
 call:dl http https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxies/txt/proxies-http.txt
 call:dl http https://fastly.jsdelivr.net/gh/UserR3X/proxy-list@main/online/http.txt

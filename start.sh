@@ -1,17 +1,22 @@
 #!/bin/sh
-rm -f all.txt
-rm -f http.txt
-rm -f https.txt
-rm -f socks4.txt
-rm -f socks5.txt
+del all.txt
+del http.txt
+del https.txt
+del socks4.txt
+del socks5.txt
 dl () {
-    rm -f temp_$1.txt
+    del temp_$1.txt
     curl -o temp_$1.txt $2
     sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
     echo >> temp_$1.txt
     cat temp_$1.txt >> $1.txt
     cat temp_$1.txt >> temp_all.txt
-    rm -f temp_$1.txt
+    del temp_$1.txt
+}
+del () {
+    if [ -d "$1" ]; then
+        del $1
+    fi
 }
 
 # http
@@ -38,6 +43,6 @@ dl "socks5" "https://fastly.jsdelivr.net/gh/roosterkid/openproxylist@main/SOCKS5
 dl "socks5" "https://www.proxyscan.io/api/proxy?format=txt&type=socks5"
 
 cat temp_all.txt | sort -u > all.txt
-rm -f temp_all.txt
+del temp_all.txt
 
 echo -e "\e[1;32mDone!\e[0m"
