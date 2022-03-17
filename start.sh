@@ -1,9 +1,4 @@
 #!/bin/sh
-del all.txt
-del http.txt
-del https.txt
-del socks4.txt
-del socks5.txt
 dl () {
     del temp_$1.txt
     curl -o temp_$1.txt $2
@@ -18,6 +13,12 @@ del () {
         rm -f $1
     fi
 }
+
+del all.txt
+del http.txt
+del https.txt
+del socks4.txt
+del socks5.txt
 
 # http
 dl "http" "https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxies/txt/proxies-http.txt"
