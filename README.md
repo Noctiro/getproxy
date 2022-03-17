@@ -1,7 +1,7 @@
 <div align="right">
   Language:
   🇨🇳
-  <a title="Chinese" href="/README_CN.md">🇺🇸</a>
+  <a title="Chinese" href="/README_EN.md">🇺🇸</a>
 </div>
 
 **start.sh目前还有BUG,请不要使用**

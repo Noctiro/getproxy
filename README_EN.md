@@ -1,7 +1,7 @@
 <div align="right">
   Language:
   🇺🇸
-  <a title="Chinese" href="/README_EN.md">🇨🇳</a>
+  <a title="Chinese" href="/README.md">🇨🇳</a>
 </div>
 
 # Get Proxy
