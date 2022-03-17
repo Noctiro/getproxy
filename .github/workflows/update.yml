@@ -25,7 +25,7 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v2
       with:
         build_dir: /
-        target_branch: main
+        target_branch: master
         keep_history: true
         allow_empty_commit: false
         commit_message: AutoUpdate
