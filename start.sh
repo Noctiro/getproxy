@@ -15,7 +15,7 @@ dl () {
 }
 del () {
     if [ -d "$1" ]; then
-        del $1
+        rm -f $1
     fi
 }
 
