@@ -4,7 +4,6 @@
   <a title="Chinese" href="/README_EN.md">🇺🇸</a>
 </div>
 
-**start.sh目前还有BUG,请不要使用**
 # Get Proxy
 
 自动从互联网收集代理链接的脚本，类型有http,https,socks4,sock5
