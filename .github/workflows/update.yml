@@ -1,0 +1,33 @@
+name: AutoUpdate
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Privilege
+      run: |
+        chmod u+x start.sh
+
+    - name: Start
+      run: |
+        sh start.sh
+
+    - name: Deploy
+      if: success()
+      uses: crazy-max/ghaction-github-pages@v2
+      with:
+        build_dir: /
+        target_branch: main
+        keep_history: true
+        allow_empty_commit: false
+        commit_message: AutoUpdate
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
