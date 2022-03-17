@@ -15,14 +15,14 @@
 
 - `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/all.txt`
 
-## 脚本使用
+### 脚本使用
 
-### Windows
+#### Windows
 
 1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.bat`
-2. 双击运行/终端执行`start.bat`
+2. 双击运行 / 终端执行`start.bat`
    
-## Linux/Android
+#### Linux/Android
 
 1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.sh`
-2. 双击运行/终端执行`sh start.sh`/终端执行`bash start.sh`
+2. 双击运行/终端执行`sh start.sh` / 终端执行`bash start.sh`
