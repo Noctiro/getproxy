@@ -1,6 +1,11 @@
 @echo off
+:: call:rm filename
+call:rm temp_all.txt
+call:rm temp_http.txt
+call:rm temp_https.txt
+call:rm temp_socks4.txt
+call:rm temp_socks5.txt
 :: call:get filename/type url
-if exist "temp_all.txt" (del temp_all.txt)
 :: http
 call:dl http https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxies/txt/proxies-http.txt
 call:dl http https://fastly.jsdelivr.net/gh/UserR3X/proxy-list@main/online/http.txt
@@ -38,7 +43,11 @@ if exist "temp_%1.txt" (del temp_%1.txt)
 curl -o temp_%1.txt "%2"
 (for /f "delims=" %%i in (temp_%1.txt) do (
     echo %1://%%i
-))>temp_last.txt
+))>temp_%1url.txt
 del temp_%1.txt
-type temp_last.txt>>temp_all.txt
+type temp_%1url.txt>>%1.txt
+type temp_%1url.txt>>temp_all.txt
+goto:eof
+:rm
+if exist %1 (del %1)
 goto:eof

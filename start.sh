@@ -1,10 +1,15 @@
 #!/bin/sh
 rm -f all.txt
+rm -f http.txt
+rm -f https.txt
+rm -f socks4.txt
+rm -f socks5.txt
 dl () {
     rm -f temp_$1.txt
     curl -o temp_$1.txt $2
     sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
     echo >> temp_$1.txt
+    cat temp_$1.txt >> $1.txt
     cat temp_$1.txt >> temp_all.txt
     rm -f temp_$1.txt
 }
