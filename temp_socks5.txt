@@ -1,0 +1,32 @@
+socks5://[
+socks5://  {
+socks5://    "Ip": "72.210.208.101",
+socks5://    "Port": 4145,
+socks5://    "Ping": 16,
+socks5://    "Time": 1647517374,
+socks5://    "Location": {
+socks5://      "city": "Oklahoma City",
+socks5://      "continent": null,
+socks5://      "country": "United States",
+socks5://      "countryCode": "US",
+socks5://      "ipName": null,
+socks5://      "ipType": null,
+socks5://      "isp": "Cox Communications Inc.",
+socks5://      "lat": "35.4676",
+socks5://      "lon": "-97.5164",
+socks5://      "org": "Cox Communications",
+socks5://      "query": "72.210.208.101",
+socks5://      "region": "OK",
+socks5://      "status": "success"
+socks5://    },
+socks5://    "Type": [
+socks5://      "SOCKS5",
+socks5://      "SOCKS4"
+socks5://    ],
+socks5://    "Failed": false,
+socks5://    "Anonymity": "Anonymous",
+socks5://    "WorkingCount": 2,
+socks5://    "Uptime": 28.6,
+socks5://    "RecheckCount": 7
+socks5://  }
+socks5://]

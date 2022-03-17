@@ -1,0 +1,31 @@
+http://[
+http://  {
+http://    "Ip": "69.163.163.189",
+http://    "Port": 20225,
+http://    "Ping": 660,
+http://    "Time": 1647517729,
+http://    "Location": {
+http://      "city": "Brea",
+http://      "continent": null,
+http://      "country": "United States",
+http://      "countryCode": "US",
+http://      "ipName": null,
+http://      "ipType": null,
+http://      "isp": "New Dream Network, LLC",
+http://      "lat": "33.9339",
+http://      "lon": "-117.8854",
+http://      "org": "New Dream Network, LLC",
+http://      "query": "69.163.163.189",
+http://      "region": "CA",
+http://      "status": "success"
+http://    },
+http://    "Type": [
+http://      "SOCKS4"
+http://    ],
+http://    "Failed": false,
+http://    "Anonymity": "Anonymous",
+http://    "WorkingCount": 3,
+http://    "Uptime": 42.9,
+http://    "RecheckCount": 7
+http://  }
+http://]

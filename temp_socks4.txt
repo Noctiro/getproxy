@@ -1,0 +1,31 @@
+socks4://[
+socks4://  {
+socks4://    "Ip": "45.163.196.78",
+socks4://    "Port": 31318,
+socks4://    "Ping": 871,
+socks4://    "Time": 1647517545,
+socks4://    "Location": {
+socks4://      "city": "Araçatuba",
+socks4://      "continent": null,
+socks4://      "country": "Brazil",
+socks4://      "countryCode": "BR",
+socks4://      "ipName": null,
+socks4://      "ipType": null,
+socks4://      "isp": "Odete A dos Santos ME",
+socks4://      "lat": "-21.2016",
+socks4://      "lon": "-50.4303",
+socks4://      "org": "Odete A dos Santos ME",
+socks4://      "query": "45.163.196.78",
+socks4://      "region": "SP",
+socks4://      "status": "success"
+socks4://    },
+socks4://    "Type": [
+socks4://      "SOCKS4"
+socks4://    ],
+socks4://    "Failed": false,
+socks4://    "Anonymity": "Anonymous",
+socks4://    "WorkingCount": 1,
+socks4://    "Uptime": 50.0,
+socks4://    "RecheckCount": 2
+socks4://  }
+socks4://]

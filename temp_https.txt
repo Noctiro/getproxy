@@ -1,0 +1,32 @@
+https://[
+https://  {
+https://    "Ip": "98.162.96.52",
+https://    "Port": 4145,
+https://    "Ping": 510,
+https://    "Time": 1647516096,
+https://    "Location": {
+https://      "city": "Oklahoma City",
+https://      "continent": null,
+https://      "country": "United States",
+https://      "countryCode": "US",
+https://      "ipName": null,
+https://      "ipType": null,
+https://      "isp": "Cox Communications Inc.",
+https://      "lat": "35.4676",
+https://      "lon": "-97.5164",
+https://      "org": "Cox Communications",
+https://      "query": "98.162.96.52",
+https://      "region": "OK",
+https://      "status": "success"
+https://    },
+https://    "Type": [
+https://      "SOCKS5",
+https://      "SOCKS4"
+https://    ],
+https://    "Failed": false,
+https://    "Anonymity": "Anonymous",
+https://    "WorkingCount": 1,
+https://    "Uptime": 50.0,
+https://    "RecheckCount": 2
+https://  }
+https://]
