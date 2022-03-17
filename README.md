@@ -28,4 +28,4 @@
 #### Linux/Android
 
 1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.sh`
-2. 双击运行/终端执行`sh start.sh` / 终端执行`bash start.sh`
+2. 双击运行/终端执行`sh start.sh`

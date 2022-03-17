@@ -1,4 +1,9 @@
 #!/bin/sh
+del () {
+    if [ -f "$1" ]; then
+        rm -f $1
+    fi
+}
 dl () {
     del temp_$1.txt
     curl -o temp_$1.txt $2
@@ -7,11 +12,6 @@ dl () {
     cat temp_$1.txt >> $1.txt
     cat temp_$1.txt >> temp_all.txt
     del temp_$1.txt
-}
-del () {
-    if [ -d "$1" ]; then
-        rm -f $1
-    fi
 }
 
 del all.txt
