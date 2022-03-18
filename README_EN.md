@@ -12,11 +12,11 @@ Scripts that automatically collect proxy links from the Internet, types http,htt
 
 ### Online download
 
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/all.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/http.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/https.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/socks4.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/socks5.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/all.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/http.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/https.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/socks4.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/socks5.txt`
 
 ### Script Usage
 
