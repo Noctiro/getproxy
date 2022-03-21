@@ -22,10 +22,10 @@ Scripts that automatically collect proxy links from the Internet, types http,htt
 
 #### Windows
 
-1. Download `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.bat`
+1. Download `https://raw.githubusercontent.com/ObcbO/getproxy/master/start.bat`
 2. Double click to run / Terminal execution`start.bat`
    
 #### Linux/Android
 
-1. Download `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.sh`
+1. Download `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/start.sh`
 2. Double click to run / Terminal execution`sh start.sh`

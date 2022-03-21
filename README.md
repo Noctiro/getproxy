@@ -22,10 +22,10 @@
 
 #### Windows
 
-1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.bat`
+1. 下载 `https://raw.githubusercontent.com/ObcbO/getproxy/master/start.bat`
 2. 双击运行 / 终端执行`start.bat`
    
 #### Linux/Android
 
-1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy@master/start.sh`
-2. 双击运行/终端执行`sh start.sh`
+1. 下载 `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/start.sh`
+2. 双击运行 / 终端执行`sh start.sh`
