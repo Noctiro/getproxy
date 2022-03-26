@@ -654,10 +654,33 @@ http://95.64.141.190:8080
 http://96.9.77.71:8080
 http://97.72.168.62:87
 
-http://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-http://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-http://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-http://<BODY><h2>Service Unavailable</h2>
-http://<hr><p>HTTP Error 503. The service is unavailable.</p>
-http://</BODY></HTML>
+http://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+http://<html xmlns="http://www.w3.org/1999/xhtml">
+http://<head>
+http://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+http://<title>404 - File or directory not found.</title>
+http://<style type="text/css">
+http://<!--
+http://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+http://fieldset{padding:0 15px 10px 15px;} 
+http://h1{font-size:2.4em;margin:0;color:#FFF;}
+http://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+http://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+http://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+http://background-color:#555555;}
+http://#content{margin:0 0 0 2%;position:relative;}
+http://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+http://-->
+http://</style>
+http://</head>
+http://<body>
+http://<div id="header"><h1>Server Error</h1></div>
+http://<div id="content">
+http:// <div class="content-container"><fieldset>
+http://  <h2>404 - File or directory not found.</h2>
+http://  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
+http:// </fieldset></div>
+http://</div>
+http://</body>
+http://</html>
 
