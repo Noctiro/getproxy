@@ -3218,6 +3218,14 @@ socks4://fieldset{padding:0 15px 10px 15px;}
 socks4://h1{font-size:2.4em;margin:0;color:#FFF;}
 socks4://h2{font-size:1.7em;margin:0;color:#CC0000;} 
 socks4://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+socks5://  <h2>404 - File or directory not found.</h2>
+socks5://  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
+socks5:// </fieldset></div>
+socks5:// <div class="content-container"><fieldset>
+socks5://#content{margin:0 0 0 2%;position:relative;}
+socks5://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+socks5://-->
+socks5://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 socks5://1.0.170.50:80
 socks5://1.0.205.87:8080
 socks5://1.174.161.20:8080
@@ -4640,9 +4648,24 @@ socks5://98.175.31.195:4145
 socks5://98.178.72.21:10919
 socks5://98.188.47.132:4145
 socks5://98.188.47.150:4145
-socks5://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-socks5://</BODY></HTML>
-socks5://<BODY><h2>Service Unavailable</h2>
-socks5://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-socks5://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-socks5://<hr><p>HTTP Error 503. The service is unavailable.</p>
+socks5://<!--
+socks5://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+socks5://</body>
+socks5://</div>
+socks5://</head>
+socks5://</html>
+socks5://</style>
+socks5://<body>
+socks5://<div id="content">
+socks5://<div id="header"><h1>Server Error</h1></div>
+socks5://<head>
+socks5://<html xmlns="http://www.w3.org/1999/xhtml">
+socks5://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+socks5://<style type="text/css">
+socks5://<title>404 - File or directory not found.</title>
+socks5://background-color:#555555;}
+socks5://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+socks5://fieldset{padding:0 15px 10px 15px;} 
+socks5://h1{font-size:2.4em;margin:0;color:#FFF;}
+socks5://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+socks5://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
