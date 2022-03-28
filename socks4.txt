@@ -2417,33 +2417,10 @@ socks4://186.211.8.1:35852
 socks4://91.237.161.211:56889
 socks4://113.53.247.221:4153
 socks4://46.8.247.3:38279
-socks4://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-socks4://<html xmlns="http://www.w3.org/1999/xhtml">
-socks4://<head>
-socks4://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-socks4://<title>404 - File or directory not found.</title>
-socks4://<style type="text/css">
-socks4://<!--
-socks4://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-socks4://fieldset{padding:0 15px 10px 15px;} 
-socks4://h1{font-size:2.4em;margin:0;color:#FFF;}
-socks4://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-socks4://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-socks4://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-socks4://background-color:#555555;}
-socks4://#content{margin:0 0 0 2%;position:relative;}
-socks4://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
-socks4://-->
-socks4://</style>
-socks4://</head>
-socks4://<body>
-socks4://<div id="header"><h1>Server Error</h1></div>
-socks4://<div id="content">
-socks4:// <div class="content-container"><fieldset>
-socks4://  <h2>404 - File or directory not found.</h2>
-socks4://  <h3>The resource you are looking for might have been removed, had its name changed, or is temporarily unavailable.</h3>
-socks4:// </fieldset></div>
-socks4://</div>
-socks4://</body>
-socks4://</html>
+socks4://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks4://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks4://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks4://<BODY><h2>Service Unavailable</h2>
+socks4://<hr><p>HTTP Error 503. The service is unavailable.</p>
+socks4://</BODY></HTML>
 
