@@ -170,6 +170,7 @@ http://135.181.161.249:3128
 http://137.184.197.190:80
 http://138.219.216.146:999
 http://138.43.105.144:80
+http://138.68.60.8:3128
 http://138.94.255.227:80
 http://139.162.100.40:80
 http://139.255.58.214:8080
@@ -1403,6 +1404,12 @@ https://95.140.27.135:58901
 https://95.189.104.181:41890
 https://95.216.194.46:1081
 https://96.9.72.180:46487
+https://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+https://</BODY></HTML>
+https://<BODY><h2>Service Unavailable</h2>
+https://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+https://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+https://<hr><p>HTTP Error 503. The service is unavailable.</p>
 socks4://1.0.132.249:4153
 socks4://1.0.133.100:51327
 socks4://1.0.224.88:4145
@@ -3025,6 +3032,12 @@ socks4://98.175.31.195:4145
 socks4://98.178.72.21:10919
 socks4://98.188.47.132:4145
 socks4://98.188.47.150:4145
+socks4://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks4://</BODY></HTML>
+socks4://<BODY><h2>Service Unavailable</h2>
+socks4://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks4://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks4://<hr><p>HTTP Error 503. The service is unavailable.</p>
 socks5://1.10.141.220:54620
 socks5://1.179.136.98:8080
 socks5://1.179.148.9:55636
@@ -3734,7 +3747,6 @@ socks5://58.246.231.254:9002
 socks5://58.246.58.150:9002
 socks5://59.124.224.205:3128
 socks5://59.21.84.108:80
-socks5://59.36.254.96:49399
 socks5://60.12.215.23:7302
 socks5://60.12.72.206:7300
 socks5://60.12.77.43:7300
@@ -3909,3 +3921,9 @@ socks5://98.170.57.231:4145
 socks5://98.178.72.21:10919
 socks5://98.188.47.132:4145
 socks5://98.188.47.150:4145
+socks5://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks5://</BODY></HTML>
+socks5://<BODY><h2>Service Unavailable</h2>
+socks5://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks5://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks5://<hr><p>HTTP Error 503. The service is unavailable.</p>

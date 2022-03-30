@@ -905,5 +905,10 @@ socks5://1.9.167.35:60489
 socks5://24.37.245.42:51056
 socks5://203.202.253.186:58309
 socks5://109.201.96.222:4145
-socks5://59.36.254.96:49399
+socks5://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks5://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks5://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks5://<BODY><h2>Service Unavailable</h2>
+socks5://<hr><p>HTTP Error 503. The service is unavailable.</p>
+socks5://</BODY></HTML>
 

@@ -592,4 +592,10 @@ https://167.172.239.13:3128
 https://93.185.123.154:3128
 https://103.124.138.131:8085
 https://202.138.249.241:8000
+https://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+https://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+https://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+https://<BODY><h2>Service Unavailable</h2>
+https://<hr><p>HTTP Error 503. The service is unavailable.</p>
+https://</BODY></HTML>
 
