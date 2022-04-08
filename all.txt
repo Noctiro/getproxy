@@ -614,13 +614,13 @@ http://65.0.196.103:80
 http://65.20.143.81:8080
 http://65.20.183.187:8080
 http://66.211.155.34:8080
+http://66.29.154.103:3128
 http://66.94.120.161:443
 http://67.205.128.38:3128
 http://68.238.58.56:80
 http://68.238.58.63:80
 http://69.11.145.106:8080
 http://73.20.41.245:8118
-http://74.208.205.5:80
 http://74.208.91.221:5050
 http://75.119.197.10:1081
 http://77.104.97.5:8080
@@ -3594,12 +3594,6 @@ socks4://98.162.96.41:4145
 socks4://98.162.96.52:4145
 socks4://98.175.31.195:4145
 socks4://98.188.47.132:4145
-socks4://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-socks4://</BODY></HTML>
-socks4://<BODY><h2>Service Unavailable</h2>
-socks4://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-socks4://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-socks4://<hr><p>HTTP Error 503. The service is unavailable.</p>
 socks5://1.0.205.87:8080
 socks5://1.1.189.58:8080
 socks5://1.1.220.100:8080
@@ -5564,9 +5558,3 @@ socks5://98.175.31.195:4145
 socks5://98.188.47.132:4145
 socks5://98.188.47.150:4145
 socks5://98.188.47.150:4145
-socks5://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-socks5://</BODY></HTML>
-socks5://<BODY><h2>Service Unavailable</h2>
-socks5://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-socks5://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-socks5://<hr><p>HTTP Error 503. The service is unavailable.</p>
