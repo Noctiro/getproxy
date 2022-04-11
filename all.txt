@@ -841,6 +841,12 @@ http://95.216.194.46:1081
 http://95.217.84.58:8118
 http://96.9.87.113:8080
 http://97.74.80.13:1081
+http://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+http://</BODY></HTML>
+http://<BODY><h2>Service Unavailable</h2>
+http://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+http://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+http://<hr><p>HTTP Error 503. The service is unavailable.</p>
 https://1.1.220.100:8080
 https://1.10.141.220:54620
 https://1.14.194.51:6006
@@ -1525,6 +1531,12 @@ https://95.64.141.190:8080
 https://95.66.142.11:8080
 https://96.2.228.18:8080
 https://96.9.77.8:8080
+https://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+https://</BODY></HTML>
+https://<BODY><h2>Service Unavailable</h2>
+https://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+https://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+https://<hr><p>HTTP Error 503. The service is unavailable.</p>
 socks4://1.0.132.249:4153
 socks4://1.0.133.100:51327
 socks4://1.0.133.89:4153
@@ -5519,6 +5531,12 @@ socks4://98.175.31.195:4145
 socks4://98.188.47.132:4145
 socks4://98.188.47.150:4145
 socks4://99.26.74.89:39593
+socks4://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks4://</BODY></HTML>
+socks4://<BODY><h2>Service Unavailable</h2>
+socks4://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks4://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks4://<hr><p>HTTP Error 503. The service is unavailable.</p>
 socks5://1.0.133.100:51327
 socks5://1.0.170.50:80
 socks5://1.10.189.133:50855
@@ -7598,3 +7616,9 @@ socks5://98.188.47.132:4145
 socks5://98.188.47.132:4145
 socks5://98.188.47.150:4145
 socks5://98.188.47.150:4145
+socks5://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks5://</BODY></HTML>
+socks5://<BODY><h2>Service Unavailable</h2>
+socks5://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks5://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks5://<hr><p>HTTP Error 503. The service is unavailable.</p>

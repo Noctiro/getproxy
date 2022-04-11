@@ -706,4 +706,10 @@ https://49.156.42.188:8080
 https://36.89.229.97:59707
 https://180.180.170.188:8080
 https://122.155.165.191:3128
+https://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+https://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+https://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+https://<BODY><h2>Service Unavailable</h2>
+https://<hr><p>HTTP Error 503. The service is unavailable.</p>
+https://</BODY></HTML>
 

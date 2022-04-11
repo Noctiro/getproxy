@@ -5043,4 +5043,10 @@ socks4://203.202.253.186:58309
 socks4://109.201.96.222:4145
 socks4://180.211.179.150:40153
 socks4://125.254.53.120:4153
+socks4://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+socks4://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
+socks4://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+socks4://<BODY><h2>Service Unavailable</h2>
+socks4://<hr><p>HTTP Error 503. The service is unavailable.</p>
+socks4://</BODY></HTML>
 
