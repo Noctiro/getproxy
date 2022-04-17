@@ -742,10 +742,5 @@ https://183.88.215.252:8080
 https://103.11.106.8:8181
 https://122.155.165.191:3128
 https://128.199.214.87:3128
-https://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-https://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-https://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-https://<BODY><h2>Service Unavailable</h2>
-https://<hr><p>HTTP Error 503. The service is unavailable.</p>
-https://</BODY></HTML>
+https://8.213.128.41:80
 
