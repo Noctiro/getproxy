@@ -1778,4 +1778,33 @@ http://129.18.210.126:9812
 http://195.80.49.10:80
 http://43.255.113.232:8085
 
+http://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+http://<html xmlns="http://www.w3.org/1999/xhtml">
+http://<head>
+http://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+http://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+http://<style type="text/css">
+http://<!--
+http://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+http://fieldset{padding:0 15px 10px 15px;} 
+http://h1{font-size:2.4em;margin:0;color:#FFF;}
+http://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+http://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+http://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+http://background-color:#555555;}
+http://#content{margin:0 0 0 2%;position:relative;}
+http://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+http://-->
+http://</style>
+http://</head>
+http://<body>
+http://<div id="header"><h1>Server Error</h1></div>
+http://<div id="content">
+http:// <div class="content-container"><fieldset>
+http://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+http://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+http:// </fieldset></div>
+http://</div>
+http://</body>
+http://</html>
 
