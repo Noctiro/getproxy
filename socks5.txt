@@ -348,118 +348,103 @@ socks5://223.68.180.94:7302
 socks5://223.96.90.216:8085
 socks5://103.53.228.217:7497
 socks5://104.248.142.28:7497
-socks5://125.141.139.110:5566
-socks5://122.252.230.117:7497
-socks5://116.212.142.231:33427
-socks5://143.198.181.229:41985
-socks5://151.80.252.69:10679
-socks5://137.184.191.61:3080
-socks5://152.32.186.145:1080
+socks5://120.237.153.84:1080
+socks5://113.125.149.124:59290
+socks5://123.58.210.11:6666
+socks5://119.13.124.3:1080
+socks5://170.238.79.2:7497
+socks5://159.138.43.96:1080
+socks5://161.8.174.48:1080
 socks5://138.68.0.124:18080
-socks5://159.89.228.253:38172
+socks5://165.22.17.195:52188
 socks5://174.75.211.222:4145
-socks5://174.77.111.198:49547
 socks5://174.64.199.79:4145
 socks5://174.77.111.196:4145
 socks5://178.33.146.138:7497
-socks5://174.64.199.82:4145
-socks5://186.126.45.166:1080
-socks5://184.178.172.18:15280
+socks5://178.62.229.24:43851
+socks5://185.154.72.177:41080
 socks5://184.181.217.210:4145
-socks5://185.200.38.214:10820
-socks5://184.178.172.14:4145
-socks5://185.64.105.82:9050
+socks5://189.84.122.67:7497
+socks5://192.252.215.5:16137
+socks5://192.111.138.29:4145
 socks5://184.178.172.5:15303
 socks5://184.178.172.13:15311
-socks5://202.46.36.32:21071
+socks5://203.153.36.37:7497
 socks5://198.8.94.174:39078
 socks5://200.16.68.111:7497
 socks5://194.163.189.206:7497
-socks5://198.8.94.170:4145
-socks5://43.135.74.226:38081
+socks5://202.46.36.196:21071
+socks5://217.12.201.56:11337
+socks5://37.187.124.63:7497
 socks5://24.249.199.12:4145
-socks5://31.43.203.100:1080
+socks5://43.224.10.22:6667
+socks5://37.187.111.126:7497
 socks5://24.249.199.4:4145
+socks5://46.105.142.10:7497
+socks5://47.240.226.173:1080
 socks5://46.105.124.74:7497
 socks5://5.161.93.53:1080
-socks5://5.189.179.173:7497
-socks5://46.101.232.224:7497
-socks5://72.206.181.105:64935
-socks5://98.162.25.4:31654
+socks5://5.11.17.230:1080
+socks5://46.101.5.73:48528
+socks5://5.161.86.206:1080
+socks5://5.161.100.145:1080
+socks5://72.221.196.157:35904
+socks5://72.195.34.35:27360
 socks5://72.206.181.97:64943
 socks5://67.201.33.10:25283
-socks5://72.195.114.184:4145
+socks5://72.206.181.103:4145
 socks5://70.166.167.38:57728
 socks5://72.217.216.239:4145
 socks5://70.166.167.55:57745
-socks5://165.154.227.154:25031
-socks5://151.80.252.69:33804
-socks5://161.8.174.48:1080
-socks5://138.68.92.236:8444
-socks5://165.154.92.12:3512
-socks5://178.32.148.251:8080
-socks5://178.238.233.10:59883
-socks5://187.63.9.38:63253
-socks5://184.178.172.28:15294
+socks5://122.252.230.117:7497
+socks5://124.227.14.147:7302
+socks5://187.35.155.132:9050
 socks5://192.111.135.17:18302
-socks5://189.84.122.67:7497
-socks5://188.34.140.205:1080
-socks5://192.111.138.29:4145
 socks5://192.111.139.162:4145
 socks5://184.178.172.25:15291
-socks5://203.153.36.37:7497
-socks5://195.2.71.201:16072
-socks5://212.83.130.66:58812
+socks5://194.181.82.37:7497
 socks5://72.195.34.59:4145
 socks5://79.143.187.168:7497
 socks5://72.195.34.42:4145
-socks5://72.206.181.103:4145
-socks5://72.221.172.203:4145
-socks5://170.238.79.2:7497
-socks5://151.80.252.69:56958
-socks5://72.210.252.134:46164
-socks5://72.221.196.157:35904
-socks5://5.161.100.145:1080
-socks5://51.178.34.17:7497
-socks5://178.62.229.24:43851
-socks5://192.111.137.37:18762
-socks5://192.111.135.18:18301
-socks5://192.111.130.5:17002
-socks5://192.111.130.2:4145
-socks5://192.111.139.165:4145
-socks5://192.111.139.163:19404
-socks5://188.165.254.122:9420
-socks5://81.169.171.198:8050
-socks5://79.143.30.163:55418
-socks5://72.210.252.137:4145
 socks5://72.206.181.123:4145
-socks5://72.221.232.155:4145
-socks5://217.12.201.56:11337
+socks5://72.195.34.60:27391
+socks5://72.210.252.134:46164
+socks5://78.46.37.212:49403
 socks5://98.162.25.7:31653
-socks5://51.83.140.70:8181
-socks5://61.7.195.206:44594
-socks5://91.201.230.104:23133
-socks5://72.221.164.34:60671
-socks5://73.136.222.141:3820
-socks5://192.111.137.35:4145
-socks5://192.252.209.155:14455
-socks5://91.134.139.238:3080
-socks5://192.111.137.34:18765
-socks5://94.23.4.127:8444
-socks5://91.122.226.13:1080
-socks5://192.252.211.197:14921
-socks5://192.252.220.92:17328
-socks5://192.252.208.67:14287
-socks5://98.175.31.195:4145
-socks5://98.162.25.29:31679
-socks5://91.213.39.53:1080
-socks5://193.164.134.126:9090
+socks5://5.188.199.5:1080
+socks5://58.214.85.22:28643
+socks5://5.189.179.173:7497
+socks5://54.39.87.232:39721
 socks5://62.113.115.94:16072
-socks5://98.162.96.41:4145
+socks5://187.63.9.38:63253
+socks5://192.111.135.18:18301
+socks5://192.111.139.163:19404
+socks5://91.201.230.104:23133
+socks5://98.188.47.132:4145
+socks5://72.210.252.137:4145
+socks5://73.136.222.141:3820
+socks5://72.221.172.203:4145
+socks5://72.221.232.155:4145
+socks5://91.121.210.56:27542
+socks5://98.162.96.53:10663
+socks5://51.178.34.17:7497
+socks5://72.221.164.34:60671
+socks5://192.252.220.92:17328
 socks5://98.170.57.231:4145
+socks5://192.111.137.35:4145
+socks5://93.190.141.62:9050
 socks5://98.162.25.23:4145
-socks5://98.178.72.21:10919
+socks5://98.162.25.4:31654
+socks5://61.7.195.206:44594
+socks5://98.162.25.29:31679
+socks5://192.252.211.197:14921
+socks5://96.9.71.18:33427
 socks5://98.162.96.52:4145
+socks5://98.162.96.41:4145
+socks5://192.111.137.34:18765
+socks5://98.188.47.150:4145
+socks5://98.178.72.21:10919
+socks5://192.252.214.20:15864
 
 socks5://Couldn't find the requested file /online/socks5.txt in UserR3X/proxy-list.
 socks5://186.103.130.93:8080
@@ -1439,4 +1424,33 @@ socks5://200.58.181.218:4153
 socks5://91.216.66.70:47658
 socks5://1.9.167.36:60489
 socks5://168.0.8.36:4153
+socks5://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+socks5://<html xmlns="http://www.w3.org/1999/xhtml">
+socks5://<head>
+socks5://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+socks5://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+socks5://<style type="text/css">
+socks5://<!--
+socks5://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+socks5://fieldset{padding:0 15px 10px 15px;} 
+socks5://h1{font-size:2.4em;margin:0;color:#FFF;}
+socks5://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+socks5://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+socks5://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+socks5://background-color:#555555;}
+socks5://#content{margin:0 0 0 2%;position:relative;}
+socks5://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+socks5://-->
+socks5://</style>
+socks5://</head>
+socks5://<body>
+socks5://<div id="header"><h1>Server Error</h1></div>
+socks5://<div id="content">
+socks5:// <div class="content-container"><fieldset>
+socks5://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+socks5://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+socks5:// </fieldset></div>
+socks5://</div>
+socks5://</body>
+socks5://</html>
 
