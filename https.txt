@@ -1550,58 +1550,53 @@ https://222.252.23.5:8080
 https://222.252.156.61:62694
 https://223.29.199.144:55443
 https://223.255.133.34:8080
-https://14.140.131.82:3128
-https://111.73.46.94:3128
-https://136.226.26.50:10341
-https://103.81.212.192:83
-https://181.129.138.114:30838
-https://190.90.242.208:999
-https://181.205.20.195:999
-https://183.88.3.201:8080
-https://201.71.159.8:5566
-https://181.113.60.204:8080
-https://181.209.111.148:999
-https://45.195.76.114:999
-https://204.199.174.66:999
-https://190.216.73.217:18081
-https://223.112.99.150:80
-https://186.250.29.225:8080
-https://216.238.69.103:59394
-https://136.243.124.244:3128
+https://170.233.235.249:3128
+https://185.65.253.161:8081
+https://181.205.20.197:999
 https://204.199.174.69:999
-https://189.51.4.254:45367
-https://85.25.91.141:15333
-https://45.175.160.2:999
-https://183.89.65.74:8080
-https://24.106.221.230:53281
-https://157.100.12.138:999
-https://116.253.208.239:33080
-https://204.199.174.67:999
-https://186.97.182.5:999
-https://121.156.109.108:8080
-https://190.217.14.110:999
-https://177.73.186.12:8080
-https://143.208.156.170:8080
-https://194.169.167.5:8080
-https://118.67.221.82:8080
-https://193.123.104.244:3128
-https://136.226.26.50:10245
-https://95.217.72.247:3127
-https://45.174.77.241:999
-https://103.132.52.214:3128
-https://122.102.118.83:8080
-https://5.167.141.239:3128
+https://182.52.83.142:8080
 https://136.226.26.50:443
-https://45.189.113.111:999
+https://111.73.46.94:3128
+https://114.4.104.254:3128
+https://113.160.241.196:19132
+https://136.226.26.50:10341
+https://204.199.174.67:999
+https://40.67.252.70:8080
+https://138.117.85.97:999
+https://5.61.44.89:3128
+https://142.132.140.218:8081
+https://190.71.27.178:999
+https://103.76.12.42:8181
+https://103.124.86.1:8080
+https://201.218.158.79:999
+https://194.233.95.214:3128
+https://190.2.210.186:999
+https://46.53.191.60:3128
+https://45.174.148.162:999
 https://220.179.118.244:8080
-https://177.66.203.198:9898
-https://216.238.82.41:59394
-https://41.33.86.242:8080
-https://45.70.236.124:999
-https://103.80.237.211:3888
-https://212.98.150.202:9091
-https://206.189.195.74:8080
-https://195.29.76.14:8080
+https://187.190.0.205:999
+https://204.199.174.66:999
+https://41.217.204.26:3129
+https://157.100.12.138:999
+https://186.251.64.10:8085
+https://91.98.102.101:8080
+https://77.50.104.110:3128
+https://131.100.48.73:999
+https://190.120.248.157:999
+https://154.79.242.178:1686
+https://136.226.26.50:10245
+https://181.205.20.195:999
+https://201.197.202.244:8080
+https://103.154.92.218:3125
+https://167.114.96.27:9300
+https://122.102.118.83:8080
+https://95.0.219.234:8080
+https://178.252.175.26:8080
+https://103.139.243.5:83
+https://178.236.223.250:8080
+https://187.188.169.169:8080
+https://111.225.153.108:8089
+https://189.164.118.26:3128
 
 https://216.238.81.28:59394
 https://216.238.77.41:59394
@@ -1632,33 +1627,4 @@ https://103.23.206.170:8080
 https://103.252.1.137:3128
 https://14.140.131.82:3128
 https://122.155.165.191:3128
-https://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-https://<html xmlns="http://www.w3.org/1999/xhtml">
-https://<head>
-https://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-https://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
-https://<style type="text/css">
-https://<!--
-https://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-https://fieldset{padding:0 15px 10px 15px;} 
-https://h1{font-size:2.4em;margin:0;color:#FFF;}
-https://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-https://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-https://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-https://background-color:#555555;}
-https://#content{margin:0 0 0 2%;position:relative;}
-https://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
-https://-->
-https://</style>
-https://</head>
-https://<body>
-https://<div id="header"><h1>Server Error</h1></div>
-https://<div id="content">
-https:// <div class="content-container"><fieldset>
-https://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
-https://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
-https:// </fieldset></div>
-https://</div>
-https://</body>
-https://</html>
 
