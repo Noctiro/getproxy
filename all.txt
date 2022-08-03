@@ -2391,6 +2391,14 @@ http://95.87.14.245:8181
 http://96.30.79.84:8080
 http://98.154.21.253:3128
 http://98.164.130.195:8080
+https://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+https://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+https:// </fieldset></div>
+https:// <div class="content-container"><fieldset>
+https://#content{margin:0 0 0 2%;position:relative;}
+https://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+https://-->
+https://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 https://1.0.170.50:80
 https://1.1.220.100:8080
 https://1.10.141.220:54620
@@ -4603,6 +4611,27 @@ https://95.87.14.245:8181
 https://96.30.79.84:8080
 https://98.154.21.253:3128
 https://98.164.130.195:8080
+https://<!--
+https://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+https://</body>
+https://</div>
+https://</head>
+https://</html>
+https://</style>
+https://<body>
+https://<div id="content">
+https://<div id="header"><h1>Server Error</h1></div>
+https://<head>
+https://<html xmlns="http://www.w3.org/1999/xhtml">
+https://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+https://<style type="text/css">
+https://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+https://background-color:#555555;}
+https://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+https://fieldset{padding:0 15px 10px 15px;} 
+https://h1{font-size:2.4em;margin:0;color:#FFF;}
+https://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+https://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
 socks4://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
 socks4://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
 socks4:// </fieldset></div>
