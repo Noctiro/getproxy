@@ -3813,10 +3813,4 @@ http://180.156.203.60:8001
 http://191.102.254.26:8081
 http://118.107.44.181:80
 
-http://<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
-http://<HTML><HEAD><TITLE>Service Unavailable</TITLE>
-http://<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
-http://<BODY><h2>Service Unavailable</h2>
-http://<hr><p>HTTP Error 503. The service is unavailable.</p>
-http://</BODY></HTML>
 
