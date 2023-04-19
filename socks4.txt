@@ -1601,7 +1601,7 @@ socks4://222.252.21.100:5678
 socks4://222.252.25.9:1080
 socks4://223.26.16.1:5678
 socks4://223.255.199.161:4153
-socks4://Couldn't find the requested file /online/socks4.txt in UserR3X/proxy-list.
+socks4://Failed to fetch version info for UserR3X/proxy-list.
 socks4://72.206.181.123:4145
 socks4://78.31.92.145:1080
 socks4://46.209.54.102:8080
@@ -3796,5 +3796,5 @@ socks4://5.58.47.25:3629
 socks4://1.179.148.9:36476
 socks4://92.249.122.108:58749
 socks4://203.202.253.186:58309
-socks4://70.166.167.55:57745
+socks4://190.92.72.242:5678
 
