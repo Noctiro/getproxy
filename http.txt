@@ -1800,5 +1800,5 @@ http://223.247.47.68:8089
 http://223.247.47.162:8089
 http://223.247.47.169:8089
 http://Failed to fetch version info for UserR3X/proxy-list.
-http://8.219.97.248:80
+http://61.200.81.19:20002
 
