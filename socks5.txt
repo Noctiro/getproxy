@@ -6563,4 +6563,33 @@ socks5://24.37.245.42:51056
 socks5://92.249.122.108:58749
 socks5://113.53.247.221:4153
 socks5://41.190.147.158:33409
+socks5://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+socks5://<html xmlns="http://www.w3.org/1999/xhtml">
+socks5://<head>
+socks5://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+socks5://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
+socks5://<style type="text/css">
+socks5://<!--
+socks5://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+socks5://fieldset{padding:0 15px 10px 15px;} 
+socks5://h1{font-size:2.4em;margin:0;color:#FFF;}
+socks5://h2{font-size:1.7em;margin:0;color:#CC0000;} 
+socks5://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+socks5://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+socks5://background-color:#555555;}
+socks5://#content{margin:0 0 0 2%;position:relative;}
+socks5://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+socks5://-->
+socks5://</style>
+socks5://</head>
+socks5://<body>
+socks5://<div id="header"><h1>Server Error</h1></div>
+socks5://<div id="content">
+socks5:// <div class="content-container"><fieldset>
+socks5://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
+socks5://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
+socks5:// </fieldset></div>
+socks5://</div>
+socks5://</body>
+socks5://</html>
 
