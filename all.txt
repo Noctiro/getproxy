@@ -1,12 +1,4 @@
 
-http://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
-http://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
-http:// </fieldset></div>
-http:// <div class="content-container"><fieldset>
-http://#content{margin:0 0 0 2%;position:relative;}
-http://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-http://-->
-http://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 http://1.0.205.87:8080
 http://1.1.189.58:8080
 http://1.1.220.63:8080
@@ -1808,36 +1800,7 @@ http://95.56.254.139:3128
 http://95.57.216.118:8080
 http://99.45.137.21:3128
 http://99.56.147.242:56250
-http://<!--
-http://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-http://</body>
-http://</div>
-http://</head>
-http://</html>
-http://</style>
-http://<body>
-http://<div id="content">
-http://<div id="header"><h1>Server Error</h1></div>
-http://<head>
-http://<html xmlns="http://www.w3.org/1999/xhtml">
-http://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-http://<style type="text/css">
-http://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
 http://Failed to fetch version info for UserR3X/proxy-list.
-http://background-color:#555555;}
-http://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-http://fieldset{padding:0 15px 10px 15px;} 
-http://h1{font-size:2.4em;margin:0;color:#FFF;}
-http://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-http://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-https://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
-https://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
-https:// </fieldset></div>
-https:// <div class="content-container"><fieldset>
-https://#content{margin:0 0 0 2%;position:relative;}
-https://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-https://-->
-https://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 https://1.0.171.213:8080
 https://1.0.205.87:8080
 https://1.1.189.58:8080
@@ -4041,36 +4004,7 @@ https://95.57.216.118:8080
 https://95.68.227.128:8080
 https://98.96.174.54:8118
 https://99.56.147.242:56250
-https://<!--
-https://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-https://</body>
-https://</div>
-https://</head>
-https://</html>
-https://</style>
-https://<body>
-https://<div id="content">
-https://<div id="header"><h1>Server Error</h1></div>
-https://<head>
-https://<html xmlns="http://www.w3.org/1999/xhtml">
-https://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-https://<style type="text/css">
-https://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
 https://Failed to fetch version info for UserR3X/proxy-list.
-https://background-color:#555555;}
-https://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-https://fieldset{padding:0 15px 10px 15px;} 
-https://h1{font-size:2.4em;margin:0;color:#FFF;}
-https://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-https://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-socks4://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
-socks4://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
-socks4:// </fieldset></div>
-socks4:// <div class="content-container"><fieldset>
-socks4://#content{margin:0 0 0 2%;position:relative;}
-socks4://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-socks4://-->
-socks4://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 socks4://0.0.0.0:80
 socks4://1.0.136.16:4153
 socks4://1.0.136.7:4145
@@ -10738,36 +10672,7 @@ socks4://98.188.47.132:4145
 socks4://98.188.47.150:4145
 socks4://99.20.24.9:8888
 socks4://99.26.234.177:5678
-socks4://<!--
-socks4://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-socks4://</body>
-socks4://</div>
-socks4://</head>
-socks4://</html>
-socks4://</style>
-socks4://<body>
-socks4://<div id="content">
-socks4://<div id="header"><h1>Server Error</h1></div>
-socks4://<head>
-socks4://<html xmlns="http://www.w3.org/1999/xhtml">
-socks4://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-socks4://<style type="text/css">
-socks4://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
 socks4://Failed to fetch version info for UserR3X/proxy-list.
-socks4://background-color:#555555;}
-socks4://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-socks4://fieldset{padding:0 15px 10px 15px;} 
-socks4://h1{font-size:2.4em;margin:0;color:#FFF;}
-socks4://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-socks4://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
-socks5://  <h2>502 - Web server received an invalid response while acting as a gateway or proxy server.</h2>
-socks5://  <h3>There is a problem with the page you are looking for, and it cannot be displayed. When the Web server (while acting as a gateway or proxy) contacted the upstream content server, it received an invalid response from the content server.</h3>
-socks5:// </fieldset></div>
-socks5:// <div class="content-container"><fieldset>
-socks5://#content{margin:0 0 0 2%;position:relative;}
-socks5://#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
-socks5://-->
-socks5://.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
 socks5://0.0.0.0:80
 socks5://1.0.136.7:4145
 socks5://1.0.170.50:80
@@ -16176,25 +16081,4 @@ socks5://98.188.47.132:4145
 socks5://98.188.47.150:4145
 socks5://99.20.24.9:8888
 socks5://99.26.234.177:5678
-socks5://<!--
-socks5://<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-socks5://</body>
-socks5://</div>
-socks5://</head>
-socks5://</html>
-socks5://</style>
-socks5://<body>
-socks5://<div id="content">
-socks5://<div id="header"><h1>Server Error</h1></div>
-socks5://<head>
-socks5://<html xmlns="http://www.w3.org/1999/xhtml">
-socks5://<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-socks5://<style type="text/css">
-socks5://<title>502 - Web server received an invalid response while acting as a gateway or proxy server.</title>
 socks5://Failed to fetch version info for UserR3X/proxy-list.
-socks5://background-color:#555555;}
-socks5://body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
-socks5://fieldset{padding:0 15px 10px 15px;} 
-socks5://h1{font-size:2.4em;margin:0;color:#FFF;}
-socks5://h2{font-size:1.7em;margin:0;color:#CC0000;} 
-socks5://h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
