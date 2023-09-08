@@ -9,19 +9,18 @@ del temp_$1.txt
 
 curl -o temp_$1.txt $2
 sed -i '/^\([0-9]\{1,3\}\.\)\{3\}[0-9]\{1,3\}:[0-9]\{1,5\}$/!d' temp_$1.txt
-sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
-
 cat temp_$1.txt >> $1.txt
-cat temp_$1.txt >> all.txt
 
+sed -i 's/^/'$1':\/\/&/g' temp_$1.txt
+cat temp_$1.txt >> $1_with_protocol.txt
+
+cat temp_$1.txt >> all.txt
 del temp_$1.txt
 }
 
-del all.txt
-del http.txt
-del https.txt
-del socks4.txt
-del socks5.txt
+del all*.txt
+del http*.txt
+del socks*.txt
 
 # http
 proxy "http" "https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxies/txt/proxies-http.txt"
