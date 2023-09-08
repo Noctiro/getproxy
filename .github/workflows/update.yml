@@ -26,8 +26,16 @@ jobs:
       with:
         build_dir: /
         target_branch: master
-        keep_history: true
+        keep_history: false
         allow_empty_commit: false
         commit_message: AutoUpdate
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Delete workflow runs
+      uses: Mattraks/delete-workflow-runs@v2
+      with:
+        token: ${{ github.token }}
+        repository: ${{ github.repository }}
+        retain_days: 1
+        keep_minimum_runs: 1
