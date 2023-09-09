@@ -12,11 +12,15 @@
 
 ### 在线下载
 
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/all.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/http.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/https.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/socks4.txt`
-- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/socks5.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/all.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/http.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/http_with_protocol.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/https.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/https_with_protocol.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/socks4.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/socks4_with_protocol.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/socks5.txt`
+- `https://cdn.jsdelivr.net/gh/ObcbO/getproxy/file/socks5_with_protocol.txt`
 
 ### 脚本使用
 
