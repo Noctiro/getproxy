@@ -1,4 +1,11 @@
 #!/bin/sh
+trap _exit INT QUIT TERM
+_exit() {
+echo "\nThe script has been terminated. Cleaning up files...\n"
+rm -f temp_*.txt
+cd BDIR
+exit
+}
 del () {
 if [ -f "$1" ]; then
 rm -f $1
@@ -19,6 +26,7 @@ cat temp_$1.txt >> all.txt
 del temp_$1.txt
 }
 
+BDIR=$(pwd)
 del file
 mkdir file
 cd file
@@ -53,5 +61,5 @@ proxy "socks5" "https://cdn.jsdelivr.net/gh/manuGMG/proxy-365@main/SOCKS5.txt"
 proxy "socks5" "https://caliph.my.id/proxy/socks5.txt"
 proxy "socks5" "https://cdn.jsdelivr.net/gh/hookzof/socks5_list@master/proxy.txt"
 
-cd ../
+cd BDIR
 echo "\e[1;32mDone!\e[0m"
