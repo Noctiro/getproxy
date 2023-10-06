@@ -1,7 +1,7 @@
 #!/bin/sh
 trap _exit INT QUIT TERM
 _exit() {
-echo "\nThe script has been terminated. Cleaning up files...\n"
+echo "\nThe script has been terminated. Cleaning up temp files...\n"
 rm -f temp_*.txt
 cd BDIR
 exit
