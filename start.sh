@@ -3,7 +3,7 @@ BDIR=$(pwd)
 trap _exit INT QUIT TERM
 
 _exit() {
-printf "\nThe script has been terminated. Cleaning up temp files...\n"
+printf '\033[0;31;31m%b\033[0m' "\nThe script has been terminated. Cleaning up temp files...\n"
 rm -f temp_*.txt
 cd $BDIR
 exit
@@ -64,4 +64,4 @@ proxy "socks5" "https://caliph.my.id/proxy/socks5.txt"
 proxy "socks5" "https://cdn.jsdelivr.net/gh/hookzof/socks5_list@master/proxy.txt"
 
 cd $BDIR
-echo "\e[1;32mDone!\e[0m"
+printf '\033[0;31;32m%b\033[0m' "\nDone!\n"
