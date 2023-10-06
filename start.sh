@@ -3,7 +3,7 @@ BDIR=$(pwd)
 trap _exit INT QUIT TERM
 
 _exit() {
-echo "\nThe script has been terminated. Cleaning up temp files...\n"
+printf "\nThe script has been terminated. Cleaning up temp files...\n"
 rm -f temp_*.txt
 cd $BDIR
 exit
@@ -39,7 +39,6 @@ proxy "http" "https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxi
 proxy "http" "https://www.proxy-list.download/api/v1/get?type=http"
 proxy "http" "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt"
 proxy "http" "https://cdn.jsdelivr.net/gh/monosans/proxy-list@main/proxies/http.txt"
-
 # https
 proxy "https" "https://fastly.jsdelivr.net/gh/jetkai/proxy-list@main/online-proxies/txt/proxies-https.txt"
 proxy "https" "https://fastly.jsdelivr.net/gh/roosterkid/openproxylist@main/HTTPS_RAW.txt"
