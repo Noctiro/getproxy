@@ -9,7 +9,9 @@ cd $BDIR
 exit
 }
 del () {
-if [ -f "$1" ]; then
+if [ -d "$1" ]; then
+rm -rf $1
+elif [ -f "$1" ]; then
 rm -f $1
 fi
 }
